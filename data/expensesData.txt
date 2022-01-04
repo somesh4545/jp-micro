@@ -1,0 +1,3 @@
+buyingCrop 24000
+transportation 1000
+insurance 4000

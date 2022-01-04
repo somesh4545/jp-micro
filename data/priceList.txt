@@ -1,0 +1,5 @@
+name tomato region jalna minPrice 1200 maxPrice 1500
+name tomato region pune minPrice 1500 maxPrice 1500
+name tomato region partur minPrice 1500 maxPrice 1500
+name brinjal region jalna minPrice 1500 maxPrice 1500
+name brinjal region jalna minPrice 1500 maxPrice 1500
