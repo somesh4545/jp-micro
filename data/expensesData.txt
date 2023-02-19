@@ -1,3 +1,5 @@
 buyingCrop 24000
 transportation 1000
-insurance 4000
+pesticides 10000
+planting 4000
+insurance 600
